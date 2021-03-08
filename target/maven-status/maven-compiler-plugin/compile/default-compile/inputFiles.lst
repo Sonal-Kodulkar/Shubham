@@ -1,0 +1,8 @@
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/web/MvcConfiguration.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/exception/RecordNotFoundException.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/web/EmployeeController.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/model/EmployeeEntity.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/DemoApplication.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/web/JspPageController.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/repository/EmployeeRepository.java
+/home/perennial/Downloads/spring-boot-hibernate-crud-demo/src/main/java/com/howtodoinjava/demo/service/EmployeeService.java
